@@ -1,0 +1,1 @@
+this is mastermind game which is a game that you guess number in row
